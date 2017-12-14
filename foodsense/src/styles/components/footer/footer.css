@@ -1,0 +1,12 @@
+.footer_menu a{
+color: green;
+font-size: 14px;
+}
+.footer_menu a:hover{ 
+    color:red;
+
+}
+.footer_copyright{
+    font-size: 12px;
+    color: grey;
+}
